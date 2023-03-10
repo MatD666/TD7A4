@@ -1,0 +1,7 @@
+Advantages of Docker Volumes:
+
+Docker volumes provide a great way to persist data.
+The learning curve is not that steep.
+Managing volumes can done from the Docker CLI or Docker API.
+They are easy to backup, restore, and migrate.
+Sharing data among containers is relatively simpler.
